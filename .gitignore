@@ -1,0 +1,1 @@
+Add a .gitignore file that will ignore the target/ folder that would be created after a build.
